@@ -58,6 +58,28 @@ $bdd = new PDO('mysql:host=localhost;dbname=form;charset=utf8', 'root', '');
 $statement = $bdd->prepare('INSERT INTO form (lname, fname, email, subject, message) VALUES ("'.$lname.'", "'.$fname.'", "'.$email.'","'.$subject.'","'.$message.'")');       
 $statement->execute();     
 }
+var_dump($email);
+//SwiftMailer
+require_once(__DIR__.'/../vendor/nfo.php');
+require_once(__DIR__.'/../vendor/autoload.php');
 
 
+// Create the Transport
+$transport = (new Swift_SmtpTransport('smtp.googlemail.com', 465, 'ssl'))
+  ->setUsername($mailAdmin)
+  ->setPassword($passAdmin)
+;
+
+// Create the Mailer using your created Transport
+$mailer = new Swift_Mailer($transport);
+
+// Create a message
+$message = (new Swift_Message('Message depuis Portfolio'))
+  ->setFrom($email)
+  ->setTo([$mailAdmin => 'My Mail'])
+  ->setBody($message)
+  ;
+
+// Send the message
+$result = $mailer->send($message);
 ?>

@@ -1,0 +1,14 @@
+{
+    "name": "arnaud/cv",
+    "description": "cv",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Arnaud PIZZETTA",
+            "email": "arnaud.pizzetta@ynov.com"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "^6.2"
+    }
+}
