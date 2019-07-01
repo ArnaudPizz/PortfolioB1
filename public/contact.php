@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Contact - Arnaud PIZZETTA</title>
-    <meta name="Portfolio" content="Portfolio of a Computer Science student in France.">
+    <meta name="Portfolio" content="Portfolio d'un technicien réseau. ">
     <link rel="stylesheet" type="text/css" media="screen" href="./css/style.css" >
     <script src="./js/main.js"></script>
 </head>

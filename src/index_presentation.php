@@ -1,5 +1,5 @@
 <div class="left_container">
-    <h4>Technicien réseau</h4>
+    <h1>Technicien réseau</h1>
     <a href="./about.php">Discover More ></a>
 </div>
 <div class="right_container">
