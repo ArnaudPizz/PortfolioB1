@@ -13,7 +13,7 @@
 
 ### 1.0 Les différentes idées au niveau graphique <a id="1.0"></a> 
 
-Au cours de ma première année nous avons via le module HTML / CSS nottament commencé une base de site web très simple afin d'apprendre comme il faut le language.
+Au cours de ma première année nous avons, via le module HTML / CSS nottament commencé une base de site web très simple afin d'apprendre comme il faut le language.
 
 A l'issue de ce module j'ai donc eu une première version et idée du site-web :
 ![1st Website](https://zupimages.net/up/19/27/0n00.png "1st Website")
