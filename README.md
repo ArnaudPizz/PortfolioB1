@@ -94,7 +94,13 @@ La page Contact : le formulaire de contact est en PHP, lié à une base de donn�
 ### 2.4 BDD <a id="2.4"></a> 
 Pour la BDD j'ai utilisé l'interface en ligne de PHPMyAdmin pour exporter mon fichier Mysql. Ainsi j'ai donc afficher les éléments de chaque ligne dans la Timeline sur mon parcour et mes compétences acquises.
 ### 2.5 SEO <a id="2.5"></a> 
+Les premiers points sur lesquels j'ai travaillé sont : la rapidité du site, la meta du site, contenu nouveau.
 
+Pour optimiser la rapidité du site j'ai utilisé une animation qui permet de capter l'utilisateur pendant le chargement de la page même si celui-ci est court. J'ai utilisé des images que j'ai nommé d'une manière différente que "img1.png" mais plutôt "backgroound.png".
+
+Concernant la meta du site, j'ai mis la description en Anglais afin que plus de personne la comprenne.
+
+Enfin pour les mots-clés du site j'ai essayer de me mettre à place d'un recruteur pour savoir ce qu'il taperais dans barre de recherche. Ensuite j'ai placé ces mots clés dans un h1 qui est la balise la plus vue par le moteur de recherche de Google.
 ### 3.0 Problèmes rencontrés <a id="3.0"></a> 
 Le developpement n'étant pas mon domaine de prédilection j'ai vraiment eu du mal à intégrer les notions de certains languages comme en Javascript ou en PHP, mais au fil de l'année et avec l'aide des mes camarades j'ai réussi à pouvoir faire naître un projet qui me plaisait au niveau visuel mais aussi au niveau du code.
 
