@@ -13,7 +13,7 @@
 
 ### 1.0 Les différentes idées au niveau graphique <a id="1.0"></a> 
 
-Au cours de ma première année nous avons via le module HTML / CSS nottament commencé une base de site web très simple afin d'apprendre comme il faut le language.
+Au cours de ma première année nous avons, via le module HTML / CSS nottament commencé une base de site web très simple afin d'apprendre comme il faut le language.
 
 A l'issue de ce module j'ai donc eu une première version et idée du site-web :
 ![1st Website](https://zupimages.net/up/19/27/0n00.png "1st Website")
@@ -28,7 +28,7 @@ Mais j'ai très vite remarqué que je n'aurais jamais le temps de finir le site 
 ![3rd Website](https://zupimages.net/up/19/27/94t8.png "3rd Website")
 
 ### 2.0 Réalisation Technique <a id="2.0"></a> 
-Pour réaliser ce portfolio j'ai mis en ^place mes connaissance personelles ainsi que celle que j'ai acquéris tout au long de l'année, j'ai pris le parti de m'aider en plus de certaines vidéos et tutoriels sur internet.
+Pour réaliser ce portfolio j'ai mis en place mes connaissance personelles ainsi que celle que j'ai acquéris tout au long de l'année, j'ai pris le parti de m'aider en plus de certaines vidéos et tutoriels sur internet.
 
 ### 2.1 Ergonomie <a id="2.1"></a> 
 Page d'acceuil pas trop chargée, avec image et grand textes, des sous-titre pour faciliter le prise d'informations par l'utilisateur afin qu'il sache ou aller.
