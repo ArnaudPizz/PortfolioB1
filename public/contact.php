@@ -3,8 +3,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Page Title</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Contact - Arnaud PIZZETTA</title>
+    <meta name="Portfolio" content="Portfolio of a Computer Science student in France.">
     <link rel="stylesheet" type="text/css" media="screen" href="./css/style.css" >
     <script src="./js/main.js"></script>
 </head>
@@ -58,7 +58,7 @@ $bdd = new PDO('mysql:host=localhost;dbname=form;charset=utf8', 'root', '');
 $statement = $bdd->prepare('INSERT INTO form (lname, fname, email, subject, message) VALUES ("'.$lname.'", "'.$fname.'", "'.$email.'","'.$subject.'","'.$message.'")');       
 $statement->execute();     
 }
-var_dump($email);
+
 //SwiftMailer
 require_once(__DIR__.'/../vendor/nfo.php');
 require_once(__DIR__.'/../vendor/autoload.php');
@@ -75,7 +75,7 @@ $mailer = new Swift_Mailer($transport);
 
 // Create a message
 $message = (new Swift_Message('Message depuis Portfolio'))
-  ->setFrom($email)
+  ->setFrom([$email => 'From CV'])
   ->setTo([$mailAdmin => 'My Mail'])
   ->setBody($message)
   ;

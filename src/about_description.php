@@ -6,7 +6,7 @@ $password = "";
 $connection = new PDO($db, $username, $password);
 
 $request = $connection->prepare("
-    SELECT * FROM competence
+    SELECT * FROM timeline
 ");
 $request->execute();
 
@@ -33,7 +33,7 @@ $competences = $request->fetchAll(PDO::FETCH_ASSOC);
             }
             echo("
                 <h2 class='title'>" . $competences[$i]['nom']  . "</h2>
-                <p class='desc'> " . $competences[$i]['desc'] . "</p>
+                <p class='descr'> " . $competences[$i]['descr'] . "</p>
 
                 </div>
             ");

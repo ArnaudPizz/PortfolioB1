@@ -3,8 +3,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Page Title</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>About - Arnaud PIZZETTA</title>
+    <meta name="Portfolio" content="Portfolio of a Computer Science student in France.">
     <link rel="stylesheet" type="text/css" media="screen" href="./css/style.css" >
     <script src="./js/main.js"></script>
 </head>
