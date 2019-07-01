@@ -28,7 +28,7 @@ Mais j'ai très vite remarqué que je n'aurais jamais le temps de finir le site 
 ![3rd Website](https://zupimages.net/up/19/27/94t8.png "3rd Website")
 
 ### 2.0 Réalisation Technique <a id="2.0"></a> 
-Pour réaliser ce portfolio j'ai mis en ^place mes connaissance personelles ainsi que celle que j'ai acquéris tout au long de l'année, j'ai pris le parti de m'aider en plus de certaines vidéos et tutoriels sur internet.
+Pour réaliser ce portfolio j'ai mis en place mes connaissance personelles ainsi que celle que j'ai acquéris tout au long de l'année, j'ai pris le parti de m'aider en plus de certaines vidéos et tutoriels sur internet.
 
 ### 2.1 Ergonomie <a id="2.1"></a> 
 Page d'acceuil pas trop chargée, avec image et grand textes, des sous-titre pour faciliter le prise d'informations par l'utilisateur afin qu'il sache ou aller.
